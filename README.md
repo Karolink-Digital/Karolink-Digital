@@ -7,11 +7,11 @@ world.</p>
 
 <h1>TECH STACK</h1>
 <div style="display: flex; gap: 30px;">
-  <img src="next-js.png" style="width: 200px; background-color: white;" />
-  <img src="react.png" style="width: 200px; background-color: white;" />
-  <img src="css.png" style="width: 200px; background-color: transparent;" />
-  <img src="html-logo.png" style="width: 200px; background-color: transparent;" />
-  <img src="tailwind-css.png" style="width: 200px; background-color: white;" />
-  <img src="nodeMongo-1.png" style="width: 200px; background-color: white;" />
+  <img src="next-js.png" style="width: 150px; background-color: white;" />
+  <img src="react.png" style="width: 150px; background-color: white;" />
+  <img src="css.png" style="width: 150px; background-color: transparent;" />
+  <img src="html-logo.png" style="width: 150px; background-color: transparent;" />
+  <img src="tailwind-css.png" style="width: 150px; background-color: white;" />
+  <img src="nodeMongo-1.png" style="width: 150px; background-color: white;" />
 </div>
 
