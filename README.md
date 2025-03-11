@@ -6,3 +6,8 @@ visually captivating solutions that meet the evolving needs of the modern digita
 world.</p>
 
 <h1>TECH STACK</h1>
+<img src="next-js.png" />
+<img src="react.png" />
+<img src="next-js.png" />
+<img src="next-js.png" />
+<img src="next-js.png" />
