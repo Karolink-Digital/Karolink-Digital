@@ -6,8 +6,10 @@ visually captivating solutions that meet the evolving needs of the modern digita
 world.</p>
 
 <h1>TECH STACK</h1>
-<img src="next-js.png" />
-<img src="react.png" />
-<img src="next-js.png" />
-<img src="next-js.png" />
-<img src="next-js.png" />
+<div style="display: flex;">
+  <img src="next-js.png" style="width: 120px;" />
+  <img src="react.png" style="width: 120px;" />
+  <img src="css.png" style="width: 120px;" />
+  <img src="html-logo.png" style="width: 120px;" />
+  <img src="tailwind-css.png" style="width: 120px;" />
+</div>
