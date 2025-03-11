@@ -6,28 +6,12 @@ visually captivating solutions that meet the evolving needs of the modern digita
 world.</p>
 
 <h1>TECH STACK</h1>
-
-<div class="logo-container">
-  <img src="next-js.png" class="white-bg" />
-  <img src="react.png" class="white-bg" />
-  <img src="css.png" />
-  <img src="html-logo.png" />
-  <img src="tailwind-css.png" class="white-bg" />
-  <img src="nodeMongo-1.png" class="white-bg" />
+<div style="display: flex; gap: 30px;">
+  <img src="next-js.png" style="width: 120px; background-color: white;" />
+  <img src="react.png" style="width: 120px; background-color: white;" />
+  <img src="css.png" style="width: 120px; background-color: transparent;" />
+  <img src="html-logo.png" style="width: 120px; background-color: transparent;" />
+  <img src="tailwind-css.png" style="width: 120px; background-color: white;" />
+  <img src="nodeMongo-1.png" style="width: 120px; background-color: white;" />
 </div>
 
-<style>
-  .logo-container {
-    display: flex;
-    gap: 30px;
-  }
-
-  .logo-container img {
-    width: 120px;
-    background: transparent;
-  }
-
-  .logo-container img.white-bg {
-    background: white;
-  }
-</style>
